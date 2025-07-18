@@ -1,1 +1,29 @@
+<html>
+  <body>
+    <h2>Review Panel</h2>
+    <h3>Unmatched Phrases</h3>
+    <form method="post" action="/approve">
+      {% for phrase in unmatched %}
+        <p>
+          {{ phrase }}
+          <input type="hidden" name="phrase" value="{{ phrase }}" />
+          <input name="category" placeholder="Assign category" />
+          <button type="submit">Approve</button>
+        </p>
+      {% endfor %}
+    </form>
+    <form method="post" action="/sovereign">
+      <input name="phrase" placeholder="Mark phrase as sovereign" />
+      <button type="submit">Sovereign Lock</button>
+    </form>
+    <h3>Approved Phrases</h3>
+    {% for phrase, category in approved %}
+      <p>{{ phrase }} — {{ category }}</p>
+    {% endfor %}
+    <h3>Sovereign Phrases</h3>
+    {% for phrase in sovereign %}
+      <p>{{ phrase }}</p>
+    {% endfor %}
+  </body>
+</html>
 
