@@ -1,21 +1,44 @@
-MIT License
+# Neuro-Fix License v1.0 — Personal Attribution + Ethical Use
 
-Copyright (c) 2025 EchoCoinSolutions
+Copyright (c) 2025 Nicoleta C.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license governs the use of the Neuro-Fix Behavioral Drift Engine and all associated logic, data structures, exports, and derivative files.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## PERMITTED USES:
+
+- Academic research (e.g. universities, open-access publications)
+- Clinical pilots or therapeutic tool development
+- Mental health technology experiments or ethical software integrations
+
+---
+
+## PROHIBITED USES:
+
+- Deployment in classified systems without explicit author permission
+- Commercial surveillance, behavior prediction, or user profiling systems
+- Removal or obfuscation of author name, GitHub origin, or SHA-linked authorship
+- Repackaging for profit without a valid partnership agreement
+
+---
+
+## ATTRIBUTION REQUIREMENTS:
+
+You must include the following in any fork, reuse, or public distribution:
+- Author: Nicoleta C.
+- Link: [insert your GitHub repo URL]
+- Integrity hash: [insert final SHA once provided]
+
+---
+
+## INTEGRITY ENFORCEMENT:
+
+The system is timestamped and hash-verified. Forks or builds that remove this lineage will be considered violations of intellectual and sovereign authorship.
+
+---
+
+## CONTACT:
+
+For partnership, pilot programs, or ethical forks:
+> ncougentakis@hotmail.com
