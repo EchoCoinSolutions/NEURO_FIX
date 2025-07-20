@@ -1,0 +1,19 @@
+NEURO-FIX: Behavioral Drift Engine — Integrity Seal
+
+Author: Nicoleta C.
+First Published: 2025-07-19 UTC
+Original GitHub Repository: [your GitHub repo URL]
+
+This file certifies the authorship and first publication of the Neuro-Fix system, including:
+
+- Input layer (latency, edit activity, entropy)
+- Processing logic (phrase classification, drift scoring)
+- Output and flagging engine
+- Calibration and longitudinal tracking
+- Submission-ready abstracts and export tools
+
+SHA-256 hash of codebase [to be filled after ZIP is generated]
+
+This system is timestamped and notarized for external verification.
+
+Use of this system without attribution, or in classified/commercial surveillance applications, violates the license terms.
